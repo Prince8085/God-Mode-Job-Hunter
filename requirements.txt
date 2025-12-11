@@ -1,0 +1,35 @@
+# Core
+python-dotenv==1.0.0
+pandas==2.1.4
+
+# Email
+imap-tools==1.5.0
+
+# Reddit
+praw==7.7.1
+
+# Google Search
+googlesearch-python==1.2.3
+
+# AI (Gemini API)
+google-generativeai==0.3.2
+
+# Telegram
+python-telegram-bot==20.7
+
+# Domain Validation
+python-whois==0.8.0
+
+# Resume Building
+python-docx==1.1.0
+
+# Browser Automation
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Scheduler
+apscheduler==3.10.4
+
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
